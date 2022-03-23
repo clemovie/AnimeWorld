@@ -666,4 +666,4 @@ Client.on("interactionCreate", interaction => {
 
 
 
-Client.login("OTI2NjQwNTAxMjg3OTc3MDMw.Yc-nNw.Ox15ygJB211OZy6Rwczr9EHC1ic");
+Client.login(process.env.TOKEN);
